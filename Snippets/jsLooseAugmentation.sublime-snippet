@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+var ${1} = (function (${2}) {
+  return ${2}
+}(${1} || {}))
+]]></content>
+  <tabTrigger>jsaugloose</tabTrigger>
+  <!-- <scope>source.js</scope> -->
+  <description>Loose augment obj</description>
+</snippet>

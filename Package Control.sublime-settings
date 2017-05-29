@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Angular 2 Snippets (John Papa)",
+		"Angular CLI",
+		"Angular2 HTML Syntax",
+		"AutoFileName",
+		"ayu",
+		"Color Highlighter",
+		"CSS3",
+		"Emmet",
+		"Git",
+		"Keymaps",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"Select Quoted",
+		"SublimeLinter",
+		"SublimeLinter-contrib-tslint",
+		"SummitLinter",
+		"Terminal",
+		"TypeScript"
+	]
+}
